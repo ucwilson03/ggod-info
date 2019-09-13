@@ -1,0 +1,12 @@
+Creating Teams
+Prior to configuring the repository setting it is necessary to create the teams and their membership.
+1.	Navigate to your organization’s landing page for EPMO it is https://github.ec.va.gov/EPMO or https://github.com/department-of-veterans-affairs
+2.	Select the Team tab
+ 
+3.	GitHub opens the New Team wizard
+4.	Following the standard naming convention enter the team name
+5.	Enter a brief description
+6.	Select Visible
+7.	Select Create team
+ 
+8.	Git Hub verifies the teams creation, the user can then add a new member by selecting the plus ( + ) in the left pane
