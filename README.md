@@ -6,7 +6,6 @@ Doing additional commits
 Wanted to do a few merges 
 Now working on merges then more commits
 *****
-Removing text that's not meaningful
 
 ## [Product] v[Version] Release VDD
 
