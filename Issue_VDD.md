@@ -1,10 +1,4 @@
-# good-info
-Information that's good to know
-Had to rename file because of typo
-Had a good day learning Github 
-Wanted to do a few merges 
-Now working on merges then more commits
-*****
+ 
 
 ## [Product] v[Version] Release VDD
 
